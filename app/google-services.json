@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "834644662511",
+    "project_id": "licenta01-896f7",
+    "storage_bucket": "licenta01-896f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834644662511:android:c9edca9464f7621468231a",
+        "android_client_info": {
+          "package_name": "com.ase.dam.licenta01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834644662511-u41lc5rds1lr9n5g3vb2bfq78u3084qh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeXi6LLPENqQWvaGGs0RIpyvDRz3ey8Qo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834644662511-u41lc5rds1lr9n5g3vb2bfq78u3084qh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
